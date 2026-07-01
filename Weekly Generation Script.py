@@ -1,5 +1,5 @@
 """
-GoodWe SEMS Weekly Generation Automation  v12  (RATE-LIMIT SAFE + OFFLINE SHEET)
+GoodWe SEMS Weekly Generation Automation (RATE-LIMIT SAFE + OFFLINE SHEET)
 ======================================================
 Usage:
     python goodwe_automation.py              → normal run
